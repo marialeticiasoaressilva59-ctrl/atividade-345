@@ -1,4 +1,4 @@
-Atividade 13 
+Atividade 13 / 14
 
 
 
@@ -45,4 +45,5 @@ escreva(pri)  = 8
 escreva(seg)  = 5
 
 escreva(ter)  = 5
+
 
